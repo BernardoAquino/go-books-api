@@ -6,7 +6,7 @@ A simple REST API with GOLANG
 $ docker-compose up --build
 ```
 
-### Run API
+## Run API
 
 ```
 $ go run main.go
